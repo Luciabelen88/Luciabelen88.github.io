@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/02/2018, 23:10:52
+    Author     : Lucia
+*/
+
+body {
+                position: relative; 
+            }
+            .carousel-inner { text-align: center; }
+.carousel .item > img { display: inline-block; }
+            .imgsize{max-height: 300px;}
+            h3{color: black;}
+            #section1 {padding-top:50px;height:700px;color: black; background-color: crimson;}
+            #section2 {padding-top:50px;height:200px;color: black; background-color: burlywood;}
+            #section22 {padding-top:50px;height:500px;color: black; background-color: burlywood;}
+            #section21 {padding-top:50px;height:500px;color: black; background-color: crimson;}
+            #section24 {padding-top:50px;height:500px;color: black; background-color: burlywood;}
+            #section23 {padding-top:50px;height:550px;color: black; background-color: crimson;}
+            #section3 {padding-top:50px;height:700px;color: black; background-color: crimson;}
+            #section4 {padding-top:50px;height:500px;color: black; background-color: burlywood;}
+            #section5 {padding-top:50px;height:500px;color: black; background-color: crimson;}
+            #section6 {padding-top:50px;height:200px;color: black; background-color: burlywood;}
+           
+.checkbox-inline{color: black;
+                font-size: 20px;
+}
